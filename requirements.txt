@@ -1,0 +1,6 @@
+python-telegram-bot==20.3
+scikit-learn
+nltk
+pandas
+python-dotenv
+requests
